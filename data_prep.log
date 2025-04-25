@@ -1,0 +1,48 @@
+2025-04-24 22:35:36,849 - __main__ - ERROR - Error loading equity issues data: Missing optional dependency 'xlrd'. Install xlrd >= 2.0.1 for xls Excel support Use pip or conda to install xlrd.
+2025-04-24 22:37:38,241 - __main__ - INFO - Loaded equity issues data: 1203 observations
+2025-04-24 22:37:38,245 - __main__ - INFO - Processed dates in equity issues data
+2025-04-24 22:37:38,265 - __main__ - INFO - Loaded daily Fama-French factors: 25902 observations
+2025-04-24 22:37:38,270 - __main__ - INFO - Loaded monthly Fama-French factors: 1283 observations
+2025-04-24 22:44:26,972 - __main__ - INFO - Loading equity issues data from Excel file
+2025-04-24 22:44:27,004 - __main__ - INFO - Loaded equity issues data: 1203 observations
+2025-04-24 22:44:27,005 - __main__ - INFO - Columns in the data: [10119, '90127220', 6311, '20TH CENTURY INDUSTRIES', 3400000, 18.625, 63.325, datetime.datetime(1986, 5, 13, 0, 0), datetime.datetime(1986, 3, 27, 0, 0), 47]
+2025-04-24 22:44:27,005 - __main__ - INFO - Converting column 10119 to string type
+2025-04-24 22:44:27,005 - __main__ - INFO - Converting column 90127220 to string type
+2025-04-24 22:44:27,005 - __main__ - INFO - Converting column 20TH CENTURY INDUSTRIES to string type
+2025-04-24 22:44:27,005 - __main__ - INFO - Processed dates in equity issues data
+2025-04-24 22:44:27,005 - __main__ - INFO - Loading daily Fama-French factors
+2025-04-24 22:44:27,029 - __main__ - INFO - Loaded daily Fama-French factors: 25902 observations
+2025-04-24 22:44:27,029 - __main__ - INFO - Loading monthly Fama-French factors
+2025-04-24 22:44:27,034 - __main__ - INFO - Loaded monthly Fama-French factors: 1283 observations
+2025-04-24 22:44:27,034 - __main__ - INFO - Attempting to save as parquet files
+2025-04-24 22:44:27,087 - __main__ - INFO - Data saved as parquet files successfully
+2025-04-24 22:51:33,784 - __main__ - INFO - Loading equity issues data from Excel file
+2025-04-24 22:51:33,820 - __main__ - INFO - Loaded equity issues data: 1203 observations
+2025-04-24 22:51:33,820 - __main__ - INFO - Original columns: [10119, '90127220', 6311, '20TH CENTURY INDUSTRIES', 3400000, 18.625, 63.325, datetime.datetime(1986, 5, 13, 0, 0), datetime.datetime(1986, 3, 27, 0, 0), 47]
+2025-04-24 22:51:33,820 - __main__ - INFO - Renamed columns to: ['Perm', 'CUSIP', 'SIC', 'ISSUER_NAME', 'SHARES', 'PRICE', 'OFFER_SIZE', 'ISSUE_DATE', 'ANNOUNCEMENT_DATE', 'PERIOD']
+2025-04-24 22:51:33,820 - __main__ - INFO - Converting Perm to string type
+2025-04-24 22:51:33,822 - __main__ - INFO - Converting CUSIP to string type
+2025-04-24 22:51:33,822 - __main__ - INFO - Converting SIC to string type
+2025-04-24 22:51:33,822 - __main__ - INFO - Converting ISSUE_DATE to datetime
+2025-04-24 22:51:33,825 - __main__ - INFO - Converting ANNOUNCEMENT_DATE to datetime
+2025-04-24 22:51:33,825 - __main__ - INFO - Loading daily Fama-French factors
+2025-04-24 22:51:33,852 - __main__ - INFO - Loaded daily Fama-French factors: 25902 observations
+2025-04-24 22:51:33,852 - __main__ - INFO - Loading monthly Fama-French factors
+2025-04-24 22:51:33,857 - __main__ - INFO - Loaded monthly Fama-French factors: 1283 observations
+2025-04-24 22:51:33,857 - __main__ - INFO - Saving data to CSV files
+2025-04-24 22:51:33,933 - __main__ - INFO - Data processed and saved successfully
+2025-04-24 23:04:47,723 - __main__ - INFO - Loading equity issues data from Excel file
+2025-04-24 23:04:47,760 - __main__ - INFO - Loaded equity issues data: 1203 observations
+2025-04-24 23:04:47,760 - __main__ - INFO - Original columns: [10119, '90127220', 6311, '20TH CENTURY INDUSTRIES', 3400000, 18.625, 63.325, datetime.datetime(1986, 5, 13, 0, 0), datetime.datetime(1986, 3, 27, 0, 0), 47]
+2025-04-24 23:04:47,761 - __main__ - INFO - Renamed columns to: ['Perm', 'CUSIP', 'SIC', 'ISSUER_NAME', 'SHARES', 'PRICE', 'OFFER_SIZE', 'ISSUE_DATE', 'ANNOUNCEMENT_DATE', 'PERIOD']
+2025-04-24 23:04:47,761 - __main__ - INFO - Converting Perm to string type
+2025-04-24 23:04:47,762 - __main__ - INFO - Converting CUSIP to string type
+2025-04-24 23:04:47,762 - __main__ - INFO - Converting SIC to string type
+2025-04-24 23:04:47,763 - __main__ - INFO - Converting ISSUE_DATE to datetime
+2025-04-24 23:04:47,765 - __main__ - INFO - Converting ANNOUNCEMENT_DATE to datetime
+2025-04-24 23:04:47,765 - __main__ - INFO - Loading daily Fama-French factors
+2025-04-24 23:04:47,790 - __main__ - INFO - Loaded daily Fama-French factors: 25902 observations
+2025-04-24 23:04:47,790 - __main__ - INFO - Loading monthly Fama-French factors
+2025-04-24 23:04:47,795 - __main__ - INFO - Loaded monthly Fama-French factors: 1283 observations
+2025-04-24 23:04:47,795 - __main__ - INFO - Saving data to CSV files
+2025-04-24 23:04:47,873 - __main__ - INFO - Data processed and saved successfully

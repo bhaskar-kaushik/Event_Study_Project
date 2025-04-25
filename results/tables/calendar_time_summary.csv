@@ -1,0 +1,16 @@
+Metric,Value
+Mean Monthly Return,0.001522
+Mean Market Return,0.006522
+Mean Excess Return,-0.004726
+CAPM Alpha (Monthly),-0.011293
+CAPM Alpha t-statistic,-28.5330
+CAPM Alpha p-value,0.0000
+CAPM Market Beta,1.0068
+FF3 Alpha (Monthly),-0.011318
+FF3 Alpha t-statistic,-29.7531
+FF3 Alpha p-value,0.0000
+FF3 Market Beta,1.0061
+FF3 SMB Beta,0.0072
+FF3 HML Beta,0.0017
+CAPM Alpha (Annualized),-0.127403
+FF3 Alpha (Annualized),-0.127669

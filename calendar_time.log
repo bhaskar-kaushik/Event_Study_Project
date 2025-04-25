@@ -1,0 +1,10 @@
+2025-04-24 22:41:18,625 - __main__ - ERROR - Error loading processed data: [Errno 2] No such file or directory: 'data/processed/equity_issues.parquet'
+2025-04-24 22:46:00,609 - __main__ - INFO - Attempting to load parquet files
+2025-04-24 22:46:00,684 - __main__ - INFO - Successfully loaded data: 1203 equity issues and 1283 monthly returns
+2025-04-24 23:04:56,990 - __main__ - INFO - Loading processed data from CSV files
+2025-04-24 23:04:56,999 - __main__ - INFO - Successfully loaded data: 1203 equity issues and 1283 monthly returns
+2025-04-24 23:04:57,389 - __main__ - INFO - Created calendar time portfolio with 213 monthly observations
+2025-04-24 23:04:57,397 - __main__ - INFO - CAPM Alpha: -0.0113 (t=-28.53)
+2025-04-24 23:04:57,398 - __main__ - INFO - FF3 Alpha: -0.0113 (t=-29.75)
+2025-04-24 23:04:57,579 - __main__ - INFO - Calendar time analysis completed
+2025-04-24 23:04:57,720 - __main__ - WARNING - Error creating LaTeX tables: [Errno 2] No such file or directory: 'results/tables/event_study_summary_full.csv'. This is likely because event study data is not available.

@@ -1,0 +1,1599 @@
+2025-04-24 22:35:38,142 - __main__ - ERROR - Error loading processed data: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-04-24 22:37:41,333 - __main__ - ERROR - Error loading processed data: [Errno 2] No such file or directory: 'data/processed/equity_issues.parquet'
+2025-04-24 22:40:43,801 - __main__ - ERROR - Error loading processed data: [Errno 2] No such file or directory: 'data/processed/equity_issues.parquet'
+2025-04-24 22:44:28,425 - __main__ - INFO - Attempting to load parquet files
+2025-04-24 22:44:31,965 - __main__ - INFO - Successfully loaded data: 1203 equity issues and 25902 daily returns
+2025-04-24 22:44:31,967 - __main__ - ERROR - Error processing issue 0: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,967 - __main__ - ERROR - Error processing issue 1: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,967 - __main__ - ERROR - Error processing issue 2: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,967 - __main__ - ERROR - Error processing issue 3: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,967 - __main__ - ERROR - Error processing issue 4: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,967 - __main__ - ERROR - Error processing issue 5: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,967 - __main__ - ERROR - Error processing issue 6: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,967 - __main__ - ERROR - Error processing issue 7: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,967 - __main__ - ERROR - Error processing issue 8: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,967 - __main__ - ERROR - Error processing issue 9: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,967 - __main__ - ERROR - Error processing issue 10: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,967 - __main__ - ERROR - Error processing issue 11: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,967 - __main__ - ERROR - Error processing issue 12: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,967 - __main__ - ERROR - Error processing issue 13: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 14: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 15: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 16: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 17: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 18: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 19: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 20: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 21: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 22: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 23: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 24: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 25: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 26: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 27: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 28: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 29: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 30: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 31: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 32: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 33: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,968 - __main__ - ERROR - Error processing issue 34: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 35: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 36: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 37: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 38: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 39: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 40: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 41: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 42: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 43: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 44: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 45: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 46: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 47: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 48: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 49: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 50: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 51: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 52: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 53: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 54: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,969 - __main__ - ERROR - Error processing issue 55: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 56: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 57: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 58: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 59: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 60: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 61: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 62: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 63: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 64: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 65: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 66: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 67: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 68: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 69: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 70: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 71: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 72: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 73: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 74: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 75: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 76: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,970 - __main__ - ERROR - Error processing issue 77: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 78: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 79: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 80: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 81: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 82: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 83: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 84: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 85: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 86: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 87: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 88: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 89: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 90: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 91: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 92: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 93: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 94: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 95: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 96: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 97: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 98: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,971 - __main__ - ERROR - Error processing issue 99: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 100: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 101: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 102: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 103: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 104: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 105: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 106: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 107: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 108: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 109: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 110: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 111: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 112: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 113: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 114: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 115: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 116: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 117: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 118: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 119: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 120: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,972 - __main__ - ERROR - Error processing issue 121: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 122: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 123: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 124: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 125: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 126: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 127: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 128: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 129: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 130: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 131: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 132: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 133: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 134: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 135: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 136: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 137: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 138: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 139: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 140: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 141: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 142: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,973 - __main__ - ERROR - Error processing issue 143: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 144: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 145: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 146: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 147: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 148: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 149: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 150: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 151: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 152: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 153: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 154: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 155: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 156: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 157: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 158: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 159: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 160: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 161: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 162: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 163: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 164: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,974 - __main__ - ERROR - Error processing issue 165: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 166: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 167: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 168: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 169: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 170: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 171: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 172: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 173: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 174: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 175: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 176: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 177: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 178: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 179: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 180: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 181: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 182: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 183: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 184: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 185: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 186: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 187: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,975 - __main__ - ERROR - Error processing issue 188: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 189: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 190: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 191: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 192: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 193: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 194: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 195: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 196: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 197: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 198: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 199: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 200: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 201: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 202: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 203: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 204: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 205: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 206: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 207: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 208: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 209: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,976 - __main__ - ERROR - Error processing issue 210: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 211: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 212: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 213: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 214: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 215: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 216: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 217: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 218: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 219: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 220: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 221: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 222: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 223: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 224: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 225: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 226: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 227: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 228: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 229: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 230: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 231: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,977 - __main__ - ERROR - Error processing issue 232: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 233: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 234: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 235: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 236: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 237: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 238: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 239: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 240: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 241: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 242: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 243: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 244: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 245: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 246: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 247: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 248: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 249: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 250: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 251: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 252: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 253: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,978 - __main__ - ERROR - Error processing issue 254: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 255: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 256: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 257: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 258: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 259: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 260: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 261: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 262: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 263: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 264: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 265: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 266: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 267: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 268: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 269: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 270: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 271: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 272: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 273: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 274: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,979 - __main__ - ERROR - Error processing issue 275: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,980 - __main__ - ERROR - Error processing issue 276: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,980 - __main__ - ERROR - Error processing issue 277: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,980 - __main__ - ERROR - Error processing issue 278: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,980 - __main__ - ERROR - Error processing issue 279: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,980 - __main__ - ERROR - Error processing issue 280: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,980 - __main__ - ERROR - Error processing issue 281: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,980 - __main__ - ERROR - Error processing issue 282: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,980 - __main__ - ERROR - Error processing issue 283: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,980 - __main__ - ERROR - Error processing issue 284: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,980 - __main__ - ERROR - Error processing issue 285: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,980 - __main__ - ERROR - Error processing issue 286: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,980 - __main__ - ERROR - Error processing issue 287: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,980 - __main__ - ERROR - Error processing issue 288: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,980 - __main__ - ERROR - Error processing issue 289: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,980 - __main__ - ERROR - Error processing issue 290: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,980 - __main__ - ERROR - Error processing issue 291: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,980 - __main__ - ERROR - Error processing issue 292: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,980 - __main__ - ERROR - Error processing issue 293: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,980 - __main__ - ERROR - Error processing issue 294: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,981 - __main__ - ERROR - Error processing issue 295: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,981 - __main__ - ERROR - Error processing issue 296: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,981 - __main__ - ERROR - Error processing issue 297: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,981 - __main__ - ERROR - Error processing issue 298: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,981 - __main__ - ERROR - Error processing issue 299: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,981 - __main__ - ERROR - Error processing issue 300: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,981 - __main__ - ERROR - Error processing issue 301: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,981 - __main__ - ERROR - Error processing issue 302: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,981 - __main__ - ERROR - Error processing issue 303: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,981 - __main__ - ERROR - Error processing issue 304: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,981 - __main__ - ERROR - Error processing issue 305: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,981 - __main__ - ERROR - Error processing issue 306: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,981 - __main__ - ERROR - Error processing issue 307: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,981 - __main__ - ERROR - Error processing issue 308: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,981 - __main__ - ERROR - Error processing issue 309: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,981 - __main__ - ERROR - Error processing issue 310: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,981 - __main__ - ERROR - Error processing issue 311: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,981 - __main__ - ERROR - Error processing issue 312: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,981 - __main__ - ERROR - Error processing issue 313: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,982 - __main__ - ERROR - Error processing issue 314: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,982 - __main__ - ERROR - Error processing issue 315: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,982 - __main__ - ERROR - Error processing issue 316: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,982 - __main__ - ERROR - Error processing issue 317: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,982 - __main__ - ERROR - Error processing issue 318: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,982 - __main__ - ERROR - Error processing issue 319: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,982 - __main__ - ERROR - Error processing issue 320: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,982 - __main__ - ERROR - Error processing issue 321: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,982 - __main__ - ERROR - Error processing issue 322: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,982 - __main__ - ERROR - Error processing issue 323: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,982 - __main__ - ERROR - Error processing issue 324: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,982 - __main__ - ERROR - Error processing issue 325: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,982 - __main__ - ERROR - Error processing issue 326: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,982 - __main__ - ERROR - Error processing issue 327: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,982 - __main__ - ERROR - Error processing issue 328: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,982 - __main__ - ERROR - Error processing issue 329: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,982 - __main__ - ERROR - Error processing issue 330: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,982 - __main__ - ERROR - Error processing issue 331: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,982 - __main__ - ERROR - Error processing issue 332: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,982 - __main__ - ERROR - Error processing issue 333: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,983 - __main__ - ERROR - Error processing issue 334: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,983 - __main__ - ERROR - Error processing issue 335: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,983 - __main__ - ERROR - Error processing issue 336: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,983 - __main__ - ERROR - Error processing issue 337: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,983 - __main__ - ERROR - Error processing issue 338: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,983 - __main__ - ERROR - Error processing issue 339: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,983 - __main__ - ERROR - Error processing issue 340: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,983 - __main__ - ERROR - Error processing issue 341: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,983 - __main__ - ERROR - Error processing issue 342: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,983 - __main__ - ERROR - Error processing issue 343: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,983 - __main__ - ERROR - Error processing issue 344: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,983 - __main__ - ERROR - Error processing issue 345: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,983 - __main__ - ERROR - Error processing issue 346: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,983 - __main__ - ERROR - Error processing issue 347: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,983 - __main__ - ERROR - Error processing issue 348: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,983 - __main__ - ERROR - Error processing issue 349: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,983 - __main__ - ERROR - Error processing issue 350: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,983 - __main__ - ERROR - Error processing issue 351: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,983 - __main__ - ERROR - Error processing issue 352: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 353: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 354: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 355: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 356: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 357: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 358: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 359: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 360: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 361: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 362: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 363: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 364: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 365: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 366: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 367: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 368: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 369: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 370: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 371: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 372: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,984 - __main__ - ERROR - Error processing issue 373: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,985 - __main__ - ERROR - Error processing issue 374: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,985 - __main__ - ERROR - Error processing issue 375: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,985 - __main__ - ERROR - Error processing issue 376: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,985 - __main__ - ERROR - Error processing issue 377: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,985 - __main__ - ERROR - Error processing issue 378: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,985 - __main__ - ERROR - Error processing issue 379: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,985 - __main__ - ERROR - Error processing issue 380: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,985 - __main__ - ERROR - Error processing issue 381: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,985 - __main__ - ERROR - Error processing issue 382: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,985 - __main__ - ERROR - Error processing issue 383: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,985 - __main__ - ERROR - Error processing issue 384: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,985 - __main__ - ERROR - Error processing issue 385: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,985 - __main__ - ERROR - Error processing issue 386: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,985 - __main__ - ERROR - Error processing issue 387: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,985 - __main__ - ERROR - Error processing issue 388: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,985 - __main__ - ERROR - Error processing issue 389: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,985 - __main__ - ERROR - Error processing issue 390: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,985 - __main__ - ERROR - Error processing issue 391: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,985 - __main__ - ERROR - Error processing issue 392: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,985 - __main__ - ERROR - Error processing issue 393: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,986 - __main__ - ERROR - Error processing issue 394: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,986 - __main__ - ERROR - Error processing issue 395: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,986 - __main__ - ERROR - Error processing issue 396: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,986 - __main__ - ERROR - Error processing issue 397: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,986 - __main__ - ERROR - Error processing issue 398: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,986 - __main__ - ERROR - Error processing issue 399: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,986 - __main__ - ERROR - Error processing issue 400: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,986 - __main__ - ERROR - Error processing issue 401: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,986 - __main__ - ERROR - Error processing issue 402: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,986 - __main__ - ERROR - Error processing issue 403: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,986 - __main__ - ERROR - Error processing issue 404: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,986 - __main__ - ERROR - Error processing issue 405: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,986 - __main__ - ERROR - Error processing issue 406: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,986 - __main__ - ERROR - Error processing issue 407: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,986 - __main__ - ERROR - Error processing issue 408: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 409: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 410: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 411: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 412: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 413: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 414: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 415: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 416: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 417: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 418: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 419: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 420: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 421: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 422: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 423: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 424: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 425: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 426: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 427: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 428: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,987 - __main__ - ERROR - Error processing issue 429: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 430: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 431: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 432: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 433: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 434: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 435: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 436: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 437: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 438: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 439: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 440: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 441: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 442: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 443: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 444: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 445: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 446: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 447: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 448: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 449: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 450: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 451: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 452: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,988 - __main__ - ERROR - Error processing issue 453: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 454: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 455: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 456: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 457: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 458: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 459: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 460: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 461: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 462: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 463: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 464: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 465: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 466: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 467: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 468: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 469: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 470: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 471: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 472: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 473: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 474: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 475: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,989 - __main__ - ERROR - Error processing issue 476: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 477: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 478: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 479: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 480: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 481: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 482: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 483: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 484: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 485: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 486: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 487: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 488: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 489: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 490: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 491: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 492: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 493: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 494: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 495: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 496: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 497: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 498: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 499: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,990 - __main__ - ERROR - Error processing issue 500: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 501: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 502: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 503: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 504: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 505: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 506: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 507: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 508: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 509: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 510: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 511: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 512: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 513: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 514: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 515: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 516: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 517: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 518: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 519: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 520: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 521: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,991 - __main__ - ERROR - Error processing issue 522: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 523: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 524: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 525: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 526: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 527: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 528: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 529: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 530: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 531: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 532: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 533: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 534: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 535: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 536: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 537: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 538: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 539: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 540: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 541: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 542: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 543: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 544: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 545: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,992 - __main__ - ERROR - Error processing issue 546: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 547: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 548: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 549: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 550: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 551: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 552: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 553: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 554: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 555: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 556: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 557: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 558: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 559: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 560: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 561: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 562: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 563: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 564: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 565: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 566: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 567: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 568: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 569: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,993 - __main__ - ERROR - Error processing issue 570: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 571: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 572: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 573: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 574: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 575: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 576: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 577: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 578: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 579: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 580: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 581: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 582: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 583: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 584: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 585: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 586: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 587: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 588: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 589: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 590: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 591: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 592: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 593: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,994 - __main__ - ERROR - Error processing issue 594: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 595: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 596: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 597: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 598: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 599: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 600: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 601: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 602: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 603: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 604: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 605: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 606: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 607: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 608: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 609: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 610: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 611: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 612: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 613: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 614: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 615: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 616: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 617: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 618: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,995 - __main__ - ERROR - Error processing issue 619: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,996 - __main__ - ERROR - Error processing issue 620: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,996 - __main__ - ERROR - Error processing issue 621: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,996 - __main__ - ERROR - Error processing issue 622: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,996 - __main__ - ERROR - Error processing issue 623: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,996 - __main__ - ERROR - Error processing issue 624: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,996 - __main__ - ERROR - Error processing issue 625: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,996 - __main__ - ERROR - Error processing issue 626: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,996 - __main__ - ERROR - Error processing issue 627: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,996 - __main__ - ERROR - Error processing issue 628: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,996 - __main__ - ERROR - Error processing issue 629: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,996 - __main__ - ERROR - Error processing issue 630: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,996 - __main__ - ERROR - Error processing issue 631: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,996 - __main__ - ERROR - Error processing issue 632: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,996 - __main__ - ERROR - Error processing issue 633: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,996 - __main__ - ERROR - Error processing issue 634: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,996 - __main__ - ERROR - Error processing issue 635: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,997 - __main__ - ERROR - Error processing issue 636: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,997 - __main__ - ERROR - Error processing issue 637: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,997 - __main__ - ERROR - Error processing issue 638: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,997 - __main__ - ERROR - Error processing issue 639: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,997 - __main__ - ERROR - Error processing issue 640: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,997 - __main__ - ERROR - Error processing issue 641: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,997 - __main__ - ERROR - Error processing issue 642: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,997 - __main__ - ERROR - Error processing issue 643: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,997 - __main__ - ERROR - Error processing issue 644: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,997 - __main__ - ERROR - Error processing issue 645: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,997 - __main__ - ERROR - Error processing issue 646: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,997 - __main__ - ERROR - Error processing issue 647: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,997 - __main__ - ERROR - Error processing issue 648: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,997 - __main__ - ERROR - Error processing issue 649: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,997 - __main__ - ERROR - Error processing issue 650: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,998 - __main__ - ERROR - Error processing issue 651: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,998 - __main__ - ERROR - Error processing issue 652: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,998 - __main__ - ERROR - Error processing issue 653: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,998 - __main__ - ERROR - Error processing issue 654: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,998 - __main__ - ERROR - Error processing issue 655: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,998 - __main__ - ERROR - Error processing issue 656: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,998 - __main__ - ERROR - Error processing issue 657: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,998 - __main__ - ERROR - Error processing issue 658: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,998 - __main__ - ERROR - Error processing issue 659: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,998 - __main__ - ERROR - Error processing issue 660: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,998 - __main__ - ERROR - Error processing issue 661: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,998 - __main__ - ERROR - Error processing issue 662: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,998 - __main__ - ERROR - Error processing issue 663: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,998 - __main__ - ERROR - Error processing issue 664: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,998 - __main__ - ERROR - Error processing issue 665: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,998 - __main__ - ERROR - Error processing issue 666: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,998 - __main__ - ERROR - Error processing issue 667: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,998 - __main__ - ERROR - Error processing issue 668: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,999 - __main__ - ERROR - Error processing issue 669: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,999 - __main__ - ERROR - Error processing issue 670: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,999 - __main__ - ERROR - Error processing issue 671: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,999 - __main__ - ERROR - Error processing issue 672: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,999 - __main__ - ERROR - Error processing issue 673: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,999 - __main__ - ERROR - Error processing issue 674: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,999 - __main__ - ERROR - Error processing issue 675: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,999 - __main__ - ERROR - Error processing issue 676: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,999 - __main__ - ERROR - Error processing issue 677: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,999 - __main__ - ERROR - Error processing issue 678: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,999 - __main__ - ERROR - Error processing issue 679: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,999 - __main__ - ERROR - Error processing issue 680: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,999 - __main__ - ERROR - Error processing issue 681: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,999 - __main__ - ERROR - Error processing issue 682: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,999 - __main__ - ERROR - Error processing issue 683: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,999 - __main__ - ERROR - Error processing issue 684: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,999 - __main__ - ERROR - Error processing issue 685: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:31,999 - __main__ - ERROR - Error processing issue 686: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,000 - __main__ - ERROR - Error processing issue 687: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,000 - __main__ - ERROR - Error processing issue 688: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,000 - __main__ - ERROR - Error processing issue 689: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,000 - __main__ - ERROR - Error processing issue 690: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,000 - __main__ - ERROR - Error processing issue 691: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,000 - __main__ - ERROR - Error processing issue 692: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,000 - __main__ - ERROR - Error processing issue 693: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,000 - __main__ - ERROR - Error processing issue 694: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,000 - __main__ - ERROR - Error processing issue 695: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,000 - __main__ - ERROR - Error processing issue 696: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,000 - __main__ - ERROR - Error processing issue 697: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,000 - __main__ - ERROR - Error processing issue 698: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,000 - __main__ - ERROR - Error processing issue 699: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,000 - __main__ - ERROR - Error processing issue 700: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,000 - __main__ - ERROR - Error processing issue 701: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,000 - __main__ - ERROR - Error processing issue 702: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,000 - __main__ - ERROR - Error processing issue 703: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,000 - __main__ - ERROR - Error processing issue 704: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,000 - __main__ - ERROR - Error processing issue 705: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,001 - __main__ - ERROR - Error processing issue 706: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,001 - __main__ - ERROR - Error processing issue 707: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,001 - __main__ - ERROR - Error processing issue 708: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,001 - __main__ - ERROR - Error processing issue 709: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,001 - __main__ - ERROR - Error processing issue 710: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,001 - __main__ - ERROR - Error processing issue 711: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,001 - __main__ - ERROR - Error processing issue 712: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,001 - __main__ - ERROR - Error processing issue 713: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,001 - __main__ - ERROR - Error processing issue 714: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,001 - __main__ - ERROR - Error processing issue 715: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,001 - __main__ - ERROR - Error processing issue 716: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,001 - __main__ - ERROR - Error processing issue 717: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,001 - __main__ - ERROR - Error processing issue 718: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,001 - __main__ - ERROR - Error processing issue 719: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,001 - __main__ - ERROR - Error processing issue 720: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,001 - __main__ - ERROR - Error processing issue 721: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,001 - __main__ - ERROR - Error processing issue 722: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,001 - __main__ - ERROR - Error processing issue 723: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,002 - __main__ - ERROR - Error processing issue 724: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,002 - __main__ - ERROR - Error processing issue 725: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,002 - __main__ - ERROR - Error processing issue 726: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,002 - __main__ - ERROR - Error processing issue 727: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,002 - __main__ - ERROR - Error processing issue 728: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,002 - __main__ - ERROR - Error processing issue 729: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,002 - __main__ - ERROR - Error processing issue 730: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,002 - __main__ - ERROR - Error processing issue 731: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,002 - __main__ - ERROR - Error processing issue 732: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,002 - __main__ - ERROR - Error processing issue 733: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,002 - __main__ - ERROR - Error processing issue 734: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,002 - __main__ - ERROR - Error processing issue 735: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,002 - __main__ - ERROR - Error processing issue 736: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,002 - __main__ - ERROR - Error processing issue 737: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,002 - __main__ - ERROR - Error processing issue 738: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,002 - __main__ - ERROR - Error processing issue 739: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,002 - __main__ - ERROR - Error processing issue 740: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,002 - __main__ - ERROR - Error processing issue 741: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,002 - __main__ - ERROR - Error processing issue 742: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,003 - __main__ - ERROR - Error processing issue 743: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,003 - __main__ - ERROR - Error processing issue 744: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,003 - __main__ - ERROR - Error processing issue 745: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,003 - __main__ - ERROR - Error processing issue 746: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,003 - __main__ - ERROR - Error processing issue 747: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,003 - __main__ - ERROR - Error processing issue 748: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,003 - __main__ - ERROR - Error processing issue 749: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,003 - __main__ - ERROR - Error processing issue 750: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,003 - __main__ - ERROR - Error processing issue 751: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,003 - __main__ - ERROR - Error processing issue 752: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,003 - __main__ - ERROR - Error processing issue 753: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,003 - __main__ - ERROR - Error processing issue 754: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,003 - __main__ - ERROR - Error processing issue 755: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,003 - __main__ - ERROR - Error processing issue 756: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,003 - __main__ - ERROR - Error processing issue 757: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,003 - __main__ - ERROR - Error processing issue 758: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,003 - __main__ - ERROR - Error processing issue 759: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,003 - __main__ - ERROR - Error processing issue 760: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,003 - __main__ - ERROR - Error processing issue 761: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,004 - __main__ - ERROR - Error processing issue 762: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,004 - __main__ - ERROR - Error processing issue 763: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,004 - __main__ - ERROR - Error processing issue 764: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,004 - __main__ - ERROR - Error processing issue 765: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,004 - __main__ - ERROR - Error processing issue 766: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,004 - __main__ - ERROR - Error processing issue 767: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,004 - __main__ - ERROR - Error processing issue 768: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,004 - __main__ - ERROR - Error processing issue 769: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,004 - __main__ - ERROR - Error processing issue 770: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,004 - __main__ - ERROR - Error processing issue 771: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,004 - __main__ - ERROR - Error processing issue 772: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,004 - __main__ - ERROR - Error processing issue 773: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,004 - __main__ - ERROR - Error processing issue 774: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,004 - __main__ - ERROR - Error processing issue 775: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,004 - __main__ - ERROR - Error processing issue 776: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,004 - __main__ - ERROR - Error processing issue 777: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,004 - __main__ - ERROR - Error processing issue 778: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,004 - __main__ - ERROR - Error processing issue 779: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,005 - __main__ - ERROR - Error processing issue 780: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,005 - __main__ - ERROR - Error processing issue 781: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,005 - __main__ - ERROR - Error processing issue 782: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,005 - __main__ - ERROR - Error processing issue 783: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,005 - __main__ - ERROR - Error processing issue 784: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,005 - __main__ - ERROR - Error processing issue 785: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,005 - __main__ - ERROR - Error processing issue 786: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,005 - __main__ - ERROR - Error processing issue 787: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,005 - __main__ - ERROR - Error processing issue 788: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,005 - __main__ - ERROR - Error processing issue 789: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,005 - __main__ - ERROR - Error processing issue 790: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,005 - __main__ - ERROR - Error processing issue 791: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,005 - __main__ - ERROR - Error processing issue 792: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,005 - __main__ - ERROR - Error processing issue 793: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,005 - __main__ - ERROR - Error processing issue 794: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,005 - __main__ - ERROR - Error processing issue 795: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,005 - __main__ - ERROR - Error processing issue 796: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,005 - __main__ - ERROR - Error processing issue 797: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,005 - __main__ - ERROR - Error processing issue 798: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,005 - __main__ - ERROR - Error processing issue 799: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,006 - __main__ - ERROR - Error processing issue 800: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,006 - __main__ - ERROR - Error processing issue 801: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,006 - __main__ - ERROR - Error processing issue 802: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,006 - __main__ - ERROR - Error processing issue 803: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,006 - __main__ - ERROR - Error processing issue 804: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,006 - __main__ - ERROR - Error processing issue 805: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,006 - __main__ - ERROR - Error processing issue 806: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,006 - __main__ - ERROR - Error processing issue 807: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,006 - __main__ - ERROR - Error processing issue 808: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,006 - __main__ - ERROR - Error processing issue 809: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,006 - __main__ - ERROR - Error processing issue 810: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,006 - __main__ - ERROR - Error processing issue 811: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,006 - __main__ - ERROR - Error processing issue 812: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,006 - __main__ - ERROR - Error processing issue 813: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,006 - __main__ - ERROR - Error processing issue 814: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,006 - __main__ - ERROR - Error processing issue 815: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,006 - __main__ - ERROR - Error processing issue 816: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,006 - __main__ - ERROR - Error processing issue 817: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,006 - __main__ - ERROR - Error processing issue 818: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 819: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 820: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 821: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 822: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 823: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 824: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 825: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 826: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 827: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 828: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 829: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 830: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 831: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 832: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 833: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 834: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 835: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 836: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 837: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 838: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,007 - __main__ - ERROR - Error processing issue 839: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 840: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 841: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 842: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 843: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 844: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 845: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 846: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 847: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 848: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 849: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 850: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 851: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 852: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 853: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 854: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 855: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 856: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 857: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 858: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 859: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,008 - __main__ - ERROR - Error processing issue 860: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,009 - __main__ - ERROR - Error processing issue 861: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,009 - __main__ - ERROR - Error processing issue 862: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,009 - __main__ - ERROR - Error processing issue 863: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,009 - __main__ - ERROR - Error processing issue 864: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,009 - __main__ - ERROR - Error processing issue 865: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,009 - __main__ - ERROR - Error processing issue 866: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,009 - __main__ - ERROR - Error processing issue 867: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,009 - __main__ - ERROR - Error processing issue 868: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,009 - __main__ - ERROR - Error processing issue 869: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,009 - __main__ - ERROR - Error processing issue 870: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,009 - __main__ - ERROR - Error processing issue 871: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,009 - __main__ - ERROR - Error processing issue 872: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,009 - __main__ - ERROR - Error processing issue 873: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,009 - __main__ - ERROR - Error processing issue 874: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,009 - __main__ - ERROR - Error processing issue 875: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,009 - __main__ - ERROR - Error processing issue 876: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,009 - __main__ - ERROR - Error processing issue 877: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,009 - __main__ - ERROR - Error processing issue 878: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,009 - __main__ - ERROR - Error processing issue 879: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,009 - __main__ - ERROR - Error processing issue 880: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,010 - __main__ - ERROR - Error processing issue 881: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,010 - __main__ - ERROR - Error processing issue 882: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,010 - __main__ - ERROR - Error processing issue 883: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,010 - __main__ - ERROR - Error processing issue 884: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,010 - __main__ - ERROR - Error processing issue 885: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,010 - __main__ - ERROR - Error processing issue 886: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,010 - __main__ - ERROR - Error processing issue 887: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,010 - __main__ - ERROR - Error processing issue 888: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,010 - __main__ - ERROR - Error processing issue 889: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,010 - __main__ - ERROR - Error processing issue 890: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,010 - __main__ - ERROR - Error processing issue 891: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,010 - __main__ - ERROR - Error processing issue 892: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,010 - __main__ - ERROR - Error processing issue 893: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,010 - __main__ - ERROR - Error processing issue 894: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,010 - __main__ - ERROR - Error processing issue 895: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,010 - __main__ - ERROR - Error processing issue 896: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,011 - __main__ - ERROR - Error processing issue 897: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,011 - __main__ - ERROR - Error processing issue 898: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,011 - __main__ - ERROR - Error processing issue 899: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,011 - __main__ - ERROR - Error processing issue 900: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,011 - __main__ - ERROR - Error processing issue 901: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,011 - __main__ - ERROR - Error processing issue 902: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,011 - __main__ - ERROR - Error processing issue 903: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,011 - __main__ - ERROR - Error processing issue 904: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,011 - __main__ - ERROR - Error processing issue 905: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,011 - __main__ - ERROR - Error processing issue 906: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,011 - __main__ - ERROR - Error processing issue 907: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,011 - __main__ - ERROR - Error processing issue 908: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,011 - __main__ - ERROR - Error processing issue 909: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,011 - __main__ - ERROR - Error processing issue 910: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,011 - __main__ - ERROR - Error processing issue 911: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,011 - __main__ - ERROR - Error processing issue 912: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 913: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 914: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 915: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 916: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 917: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 918: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 919: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 920: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 921: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 922: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 923: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 924: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 925: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 926: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 927: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 928: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 929: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 930: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 931: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 932: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 933: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,012 - __main__ - ERROR - Error processing issue 934: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 935: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 936: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 937: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 938: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 939: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 940: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 941: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 942: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 943: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 944: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 945: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 946: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 947: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 948: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 949: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 950: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 951: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 952: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 953: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 954: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 955: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 956: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,013 - __main__ - ERROR - Error processing issue 957: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 958: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 959: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 960: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 961: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 962: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 963: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 964: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 965: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 966: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 967: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 968: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 969: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 970: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 971: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 972: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 973: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 974: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 975: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 976: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 977: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 978: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 979: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 980: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,014 - __main__ - ERROR - Error processing issue 981: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 982: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 983: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 984: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 985: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 986: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 987: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 988: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 989: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 990: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 991: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 992: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 993: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 994: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 995: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 996: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 997: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 998: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 999: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 1000: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 1001: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 1002: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 1003: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 1004: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 1005: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,015 - __main__ - ERROR - Error processing issue 1006: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1007: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1008: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1009: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1010: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1011: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1012: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1013: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1014: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1015: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1016: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1017: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1018: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1019: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1020: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1021: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1022: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1023: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1024: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1025: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1026: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,016 - __main__ - ERROR - Error processing issue 1027: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1028: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1029: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1030: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1031: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1032: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1033: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1034: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1035: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1036: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1037: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1038: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1039: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1040: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1041: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1042: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1043: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1044: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1045: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1046: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1047: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1048: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1049: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1050: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,017 - __main__ - ERROR - Error processing issue 1051: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1052: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1053: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1054: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1055: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1056: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1057: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1058: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1059: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1060: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1061: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1062: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1063: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1064: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1065: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1066: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1067: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1068: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1069: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1070: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1071: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1072: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1073: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1074: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1075: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,018 - __main__ - ERROR - Error processing issue 1076: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1077: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1078: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1079: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1080: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1081: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1082: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1083: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1084: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1085: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1086: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1087: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1088: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1089: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1090: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1091: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1092: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1093: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1094: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1095: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1096: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1097: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1098: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1099: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1100: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,019 - __main__ - ERROR - Error processing issue 1101: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,020 - __main__ - ERROR - Error processing issue 1102: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,020 - __main__ - ERROR - Error processing issue 1103: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,020 - __main__ - ERROR - Error processing issue 1104: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,020 - __main__ - ERROR - Error processing issue 1105: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,020 - __main__ - ERROR - Error processing issue 1106: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,020 - __main__ - ERROR - Error processing issue 1107: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,020 - __main__ - ERROR - Error processing issue 1108: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,020 - __main__ - ERROR - Error processing issue 1109: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,020 - __main__ - ERROR - Error processing issue 1110: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,020 - __main__ - ERROR - Error processing issue 1111: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,020 - __main__ - ERROR - Error processing issue 1112: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,020 - __main__ - ERROR - Error processing issue 1113: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,020 - __main__ - ERROR - Error processing issue 1114: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,020 - __main__ - ERROR - Error processing issue 1115: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,020 - __main__ - ERROR - Error processing issue 1116: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1117: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1118: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1119: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1120: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1121: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1122: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1123: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1124: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1125: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1126: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1127: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1128: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1129: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1130: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1131: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1132: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1133: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1134: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1135: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1136: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,021 - __main__ - ERROR - Error processing issue 1137: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1138: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1139: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1140: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1141: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1142: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1143: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1144: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1145: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1146: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1147: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1148: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1149: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1150: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1151: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1152: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1153: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1154: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1155: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1156: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1157: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1158: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,022 - __main__ - ERROR - Error processing issue 1159: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,023 - __main__ - ERROR - Error processing issue 1160: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,023 - __main__ - ERROR - Error processing issue 1161: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,023 - __main__ - ERROR - Error processing issue 1162: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,023 - __main__ - ERROR - Error processing issue 1163: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,023 - __main__ - ERROR - Error processing issue 1164: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,023 - __main__ - ERROR - Error processing issue 1165: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,023 - __main__ - ERROR - Error processing issue 1166: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,023 - __main__ - ERROR - Error processing issue 1167: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,023 - __main__ - ERROR - Error processing issue 1168: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,023 - __main__ - ERROR - Error processing issue 1169: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,023 - __main__ - ERROR - Error processing issue 1170: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,023 - __main__ - ERROR - Error processing issue 1171: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,023 - __main__ - ERROR - Error processing issue 1172: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,023 - __main__ - ERROR - Error processing issue 1173: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,023 - __main__ - ERROR - Error processing issue 1174: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,023 - __main__ - ERROR - Error processing issue 1175: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,023 - __main__ - ERROR - Error processing issue 1176: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,023 - __main__ - ERROR - Error processing issue 1177: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,023 - __main__ - ERROR - Error processing issue 1178: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,024 - __main__ - ERROR - Error processing issue 1179: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,024 - __main__ - ERROR - Error processing issue 1180: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,024 - __main__ - ERROR - Error processing issue 1181: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,024 - __main__ - ERROR - Error processing issue 1182: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,024 - __main__ - ERROR - Error processing issue 1183: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,024 - __main__ - ERROR - Error processing issue 1184: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,024 - __main__ - ERROR - Error processing issue 1185: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,024 - __main__ - ERROR - Error processing issue 1186: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,024 - __main__ - ERROR - Error processing issue 1187: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,024 - __main__ - ERROR - Error processing issue 1188: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,024 - __main__ - ERROR - Error processing issue 1189: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,024 - __main__ - ERROR - Error processing issue 1190: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,024 - __main__ - ERROR - Error processing issue 1191: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,024 - __main__ - ERROR - Error processing issue 1192: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,024 - __main__ - ERROR - Error processing issue 1193: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,024 - __main__ - ERROR - Error processing issue 1194: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,024 - __main__ - ERROR - Error processing issue 1195: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,024 - __main__ - ERROR - Error processing issue 1196: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,024 - __main__ - ERROR - Error processing issue 1197: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,024 - __main__ - ERROR - Error processing issue 1198: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,025 - __main__ - ERROR - Error processing issue 1199: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,025 - __main__ - ERROR - Error processing issue 1200: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,025 - __main__ - ERROR - Error processing issue 1201: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,025 - __main__ - ERROR - Error processing issue 1202: 'ANNOUNCEMENT_DATE'
+2025-04-24 22:44:32,025 - __main__ - INFO - Calculated CARs for 0 equity issues
+2025-04-24 22:51:35,286 - __main__ - INFO - Loading processed data from CSV files
+2025-04-24 22:51:35,309 - __main__ - INFO - Successfully loaded data: 1203 equity issues and 25902 daily returns
+2025-04-24 22:51:35,315 - __main__ - WARNING - Skipping issue 71239 due to missing announcement date
+2025-04-24 22:51:35,316 - __main__ - WARNING - Skipping issue 20482 due to missing announcement date
+2025-04-24 22:51:35,320 - __main__ - WARNING - Skipping issue 11173 due to missing announcement date
+2025-04-24 22:51:35,321 - __main__ - WARNING - Skipping issue 11317 due to missing announcement date
+2025-04-24 22:51:35,324 - __main__ - WARNING - Skipping issue 50032 due to missing announcement date
+2025-04-24 22:51:35,324 - __main__ - WARNING - Skipping issue 24264 due to missing announcement date
+2025-04-24 22:51:35,325 - __main__ - WARNING - Skipping issue 34498 due to missing announcement date
+2025-04-24 22:51:35,326 - __main__ - WARNING - Skipping issue 17304 due to missing announcement date
+2025-04-24 22:51:35,326 - __main__ - WARNING - Skipping issue 63423 due to missing announcement date
+2025-04-24 22:51:35,336 - __main__ - WARNING - Skipping issue 46754 due to missing announcement date
+2025-04-24 22:51:35,338 - __main__ - WARNING - Skipping issue 58560 due to missing announcement date
+2025-04-24 22:51:35,346 - __main__ - WARNING - Skipping issue 14219 due to missing announcement date
+2025-04-24 22:51:35,361 - __main__ - WARNING - Skipping issue 15820 due to missing announcement date
+2025-04-24 22:51:35,363 - __main__ - WARNING - Skipping issue 56899 due to missing announcement date
+2025-04-24 22:51:35,366 - __main__ - WARNING - Skipping issue 28134 due to missing announcement date
+2025-04-24 22:51:35,366 - __main__ - WARNING - Skipping issue 47423 due to missing announcement date
+2025-04-24 22:51:35,371 - __main__ - WARNING - Skipping issue 10786 due to missing announcement date
+2025-04-24 22:51:35,375 - __main__ - WARNING - Skipping issue 44409 due to missing announcement date
+2025-04-24 22:51:35,376 - __main__ - WARNING - Skipping issue 44409 due to missing announcement date
+2025-04-24 22:51:35,377 - __main__ - WARNING - Skipping issue 18332 due to missing announcement date
+2025-04-24 22:51:35,379 - __main__ - WARNING - Skipping issue 66130 due to missing announcement date
+2025-04-24 22:51:35,383 - __main__ - WARNING - Skipping issue 49402 due to missing announcement date
+2025-04-24 22:51:35,383 - __main__ - WARNING - Skipping issue 64020 due to missing announcement date
+2025-04-24 22:51:35,384 - __main__ - WARNING - Skipping issue 20723 due to missing announcement date
+2025-04-24 22:51:35,393 - __main__ - WARNING - Skipping issue 21873 due to missing announcement date
+2025-04-24 22:51:35,397 - __main__ - WARNING - Skipping issue 21397 due to missing announcement date
+2025-04-24 22:51:35,400 - __main__ - WARNING - Skipping issue 22921 due to missing announcement date
+2025-04-24 22:51:35,407 - __main__ - WARNING - Skipping issue 23553 due to missing announcement date
+2025-04-24 22:51:35,408 - __main__ - WARNING - Skipping issue 24302 due to missing announcement date
+2025-04-24 22:51:35,409 - __main__ - WARNING - Skipping issue 24441 due to missing announcement date
+2025-04-24 22:51:35,410 - __main__ - WARNING - Skipping issue 64901 due to missing announcement date
+2025-04-24 22:51:35,418 - __main__ - WARNING - Skipping issue 53508 due to missing announcement date
+2025-04-24 22:51:35,419 - __main__ - WARNING - Skipping issue 25727 due to missing announcement date
+2025-04-24 22:51:35,419 - __main__ - WARNING - Skipping issue 25989 due to missing announcement date
+2025-04-24 22:51:35,423 - __main__ - WARNING - Skipping issue 10937 due to missing announcement date
+2025-04-24 22:51:35,426 - __main__ - WARNING - Skipping issue 11471 due to missing announcement date
+2025-04-24 22:51:35,427 - __main__ - WARNING - Skipping issue 39335 due to missing announcement date
+2025-04-24 22:51:35,427 - __main__ - WARNING - Skipping issue 26914 due to missing announcement date
+2025-04-24 22:51:35,429 - __main__ - WARNING - Skipping issue 20459 due to missing announcement date
+2025-04-24 22:51:35,430 - __main__ - WARNING - Skipping issue 20320 due to missing announcement date
+2025-04-24 22:51:35,430 - __main__ - WARNING - Skipping issue 20320 due to missing announcement date
+2025-04-24 22:51:35,432 - __main__ - WARNING - Skipping issue 62164 due to missing announcement date
+2025-04-24 22:51:35,434 - __main__ - WARNING - Skipping issue 64207 due to missing announcement date
+2025-04-24 22:51:35,438 - __main__ - WARNING - Skipping issue 60919 due to missing announcement date
+2025-04-24 22:51:35,438 - __main__ - WARNING - Skipping issue 28573 due to missing announcement date
+2025-04-24 22:51:35,439 - __main__ - WARNING - Skipping issue 28600 due to missing announcement date
+2025-04-24 22:51:35,439 - __main__ - WARNING - Skipping issue 57592 due to missing announcement date
+2025-04-24 22:51:35,439 - __main__ - WARNING - Skipping issue 28629 due to missing announcement date
+2025-04-24 22:51:35,443 - __main__ - WARNING - Skipping issue 42526 due to missing announcement date
+2025-04-24 22:51:35,443 - __main__ - WARNING - Skipping issue 87231 due to missing announcement date
+2025-04-24 22:51:35,453 - __main__ - WARNING - Skipping issue 46471 due to missing announcement date
+2025-04-24 22:51:35,453 - __main__ - WARNING - Skipping issue 46471 due to missing announcement date
+2025-04-24 22:51:35,453 - __main__ - WARNING - Skipping issue 19254 due to missing announcement date
+2025-04-24 22:51:35,458 - __main__ - WARNING - Skipping issue 48741 due to missing announcement date
+2025-04-24 22:51:35,459 - __main__ - WARNING - Skipping issue 31536 due to missing announcement date
+2025-04-24 22:51:35,462 - __main__ - WARNING - Skipping issue 70578 due to missing announcement date
+2025-04-24 22:51:35,466 - __main__ - WARNING - Skipping issue 60927 due to missing announcement date
+2025-04-24 22:51:35,469 - __main__ - WARNING - Skipping issue 32460 due to missing announcement date
+2025-04-24 22:51:35,472 - __main__ - WARNING - Skipping issue 32943 due to missing announcement date
+2025-04-24 22:51:35,472 - __main__ - WARNING - Skipping issue 32943 due to missing announcement date
+2025-04-24 22:51:35,472 - __main__ - WARNING - Skipping issue 32759 due to missing announcement date
+2025-04-24 22:51:35,477 - __main__ - WARNING - Skipping issue 59539 due to missing announcement date
+2025-04-24 22:51:35,484 - __main__ - WARNING - Skipping issue 35554 due to missing announcement date
+2025-04-24 22:51:35,492 - __main__ - WARNING - Skipping issue 22007 due to missing announcement date
+2025-04-24 22:51:35,493 - __main__ - WARNING - Skipping issue 41304 due to missing announcement date
+2025-04-24 22:51:35,494 - __main__ - WARNING - Skipping issue 38317 due to missing announcement date
+2025-04-24 22:51:35,502 - __main__ - WARNING - Skipping issue 45428 due to missing announcement date
+2025-04-24 22:51:35,504 - __main__ - WARNING - Skipping issue 22568 due to missing announcement date
+2025-04-24 22:51:35,508 - __main__ - WARNING - Skipping issue 32440 due to missing announcement date
+2025-04-24 22:51:35,508 - __main__ - WARNING - Skipping issue 40265 due to missing announcement date
+2025-04-24 22:51:35,512 - __main__ - WARNING - Skipping issue 56266 due to missing announcement date
+2025-04-24 22:51:35,512 - __main__ - WARNING - Skipping issue 11736 due to missing announcement date
+2025-04-24 22:51:35,513 - __main__ - WARNING - Skipping issue 40708 due to missing announcement date
+2025-04-24 22:51:35,514 - __main__ - WARNING - Skipping issue 59301 due to missing announcement date
+2025-04-24 22:51:35,515 - __main__ - WARNING - Skipping issue 32563 due to missing announcement date
+2025-04-24 22:51:35,529 - __main__ - WARNING - Skipping issue 51561 due to missing announcement date
+2025-04-24 22:51:35,532 - __main__ - WARNING - Skipping issue 48653 due to missing announcement date
+2025-04-24 22:51:35,544 - __main__ - WARNING - Skipping issue 21573 due to missing announcement date
+2025-04-24 22:51:35,545 - __main__ - WARNING - Skipping issue 45074 due to missing announcement date
+2025-04-24 22:51:35,550 - __main__ - WARNING - Skipping issue 43596 due to missing announcement date
+2025-04-24 22:51:35,550 - __main__ - WARNING - Skipping issue 46077 due to missing announcement date
+2025-04-24 22:51:35,550 - __main__ - WARNING - Skipping issue 75228 due to missing announcement date
+2025-04-24 22:51:35,551 - __main__ - WARNING - Skipping issue 46288 due to missing announcement date
+2025-04-24 22:51:35,551 - __main__ - WARNING - Skipping issue 46544 due to missing announcement date
+2025-04-24 22:51:35,552 - __main__ - WARNING - Skipping issue 16707 due to missing announcement date
+2025-04-24 22:51:35,553 - __main__ - WARNING - Skipping issue 46691 due to missing announcement date
+2025-04-24 22:51:35,553 - __main__ - WARNING - Skipping issue 21557 due to missing announcement date
+2025-04-24 22:51:35,553 - __main__ - WARNING - Skipping issue 60513 due to missing announcement date
+2025-04-24 22:51:35,554 - __main__ - WARNING - Skipping issue 25769 due to missing announcement date
+2025-04-24 22:51:35,554 - __main__ - WARNING - Skipping issue 47539 due to missing announcement date
+2025-04-24 22:51:35,554 - __main__ - WARNING - Skipping issue 61137 due to missing announcement date
+2025-04-24 22:51:35,560 - __main__ - WARNING - Skipping issue 49104 due to missing announcement date
+2025-04-24 22:51:35,561 - __main__ - WARNING - Skipping issue 49278 due to missing announcement date
+2025-04-24 22:51:35,562 - __main__ - WARNING - Skipping issue 49462 due to missing announcement date
+2025-04-24 22:51:35,575 - __main__ - WARNING - Skipping issue 46703 due to missing announcement date
+2025-04-24 22:51:35,577 - __main__ - WARNING - Skipping issue 20386 due to missing announcement date
+2025-04-24 22:51:35,580 - __main__ - WARNING - Skipping issue 60652 due to missing announcement date
+2025-04-24 22:51:35,587 - __main__ - WARNING - Skipping issue 53568 due to missing announcement date
+2025-04-24 22:51:35,587 - __main__ - WARNING - Skipping issue 53576 due to missing announcement date
+2025-04-24 22:51:35,588 - __main__ - WARNING - Skipping issue 53613 due to missing announcement date
+2025-04-24 22:51:35,589 - __main__ - WARNING - Skipping issue 53640 due to missing announcement date
+2025-04-24 22:51:35,591 - __main__ - WARNING - Skipping issue 54114 due to missing announcement date
+2025-04-24 22:51:35,591 - __main__ - WARNING - Skipping issue 54173 due to missing announcement date
+2025-04-24 22:51:35,595 - __main__ - WARNING - Skipping issue 55053 due to missing announcement date
+2025-04-24 22:51:35,596 - __main__ - WARNING - Skipping issue 48071 due to missing announcement date
+2025-04-24 22:51:35,597 - __main__ - WARNING - Skipping issue 55272 due to missing announcement date
+2025-04-24 22:51:35,597 - __main__ - WARNING - Skipping issue 55272 due to missing announcement date
+2025-04-24 22:51:35,601 - __main__ - WARNING - Skipping issue 56531 due to missing announcement date
+2025-04-24 22:51:35,604 - __main__ - WARNING - Skipping issue 59096 due to missing announcement date
+2025-04-24 22:51:35,610 - __main__ - WARNING - Skipping issue 64303 due to missing announcement date
+2025-04-24 22:51:35,611 - __main__ - WARNING - Skipping issue 64303 due to missing announcement date
+2025-04-24 22:51:35,611 - __main__ - WARNING - Skipping issue 57753 due to missing announcement date
+2025-04-24 22:51:35,611 - __main__ - WARNING - Skipping issue 57817 due to missing announcement date
+2025-04-24 22:51:35,613 - __main__ - WARNING - Skipping issue 57999 due to missing announcement date
+2025-04-24 22:51:35,618 - __main__ - WARNING - Skipping issue 34825 due to missing announcement date
+2025-04-24 22:51:35,623 - __main__ - WARNING - Skipping issue 57840 due to missing announcement date
+2025-04-24 22:51:35,627 - __main__ - WARNING - Skipping issue 60063 due to missing announcement date
+2025-04-24 22:51:35,627 - __main__ - WARNING - Skipping issue 60063 due to missing announcement date
+2025-04-24 22:51:35,629 - __main__ - WARNING - Skipping issue 13661 due to missing announcement date
+2025-04-24 22:51:35,636 - __main__ - WARNING - Skipping issue 41355 due to missing announcement date
+2025-04-24 22:51:35,636 - __main__ - WARNING - Skipping issue 61517 due to missing announcement date
+2025-04-24 22:51:35,636 - __main__ - WARNING - Skipping issue 65023 due to missing announcement date
+2025-04-24 22:51:35,636 - __main__ - WARNING - Skipping issue 61592 due to missing announcement date
+2025-04-24 22:51:35,636 - __main__ - WARNING - Skipping issue 63298 due to missing announcement date
+2025-04-24 22:51:35,639 - __main__ - WARNING - Skipping issue 18403 due to missing announcement date
+2025-04-24 22:51:35,643 - __main__ - WARNING - Skipping issue 61823 due to missing announcement date
+2025-04-24 22:51:35,643 - __main__ - WARNING - Skipping issue 62261 due to missing announcement date
+2025-04-24 22:51:35,643 - __main__ - WARNING - Skipping issue 55415 due to missing announcement date
+2025-04-24 22:51:35,645 - __main__ - WARNING - Skipping issue 62499 due to missing announcement date
+2025-04-24 22:51:35,646 - __main__ - WARNING - Skipping issue 13901 due to missing announcement date
+2025-04-24 22:51:35,649 - __main__ - WARNING - Skipping issue 16360 due to missing announcement date
+2025-04-24 22:51:35,651 - __main__ - WARNING - Skipping issue 63475 due to missing announcement date
+2025-04-24 22:51:35,653 - __main__ - WARNING - Skipping issue 63830 due to missing announcement date
+2025-04-24 22:51:35,653 - __main__ - WARNING - Skipping issue 63830 due to missing announcement date
+2025-04-24 22:51:35,661 - __main__ - WARNING - Skipping issue 65446 due to missing announcement date
+2025-04-24 22:51:35,661 - __main__ - WARNING - Skipping issue 65622 due to missing announcement date
+2025-04-24 22:51:35,662 - __main__ - WARNING - Skipping issue 52775 due to missing announcement date
+2025-04-24 22:51:35,663 - __main__ - WARNING - Skipping issue 64346 due to missing announcement date
+2025-04-24 22:51:35,663 - __main__ - WARNING - Skipping issue 46228 due to missing announcement date
+2025-04-24 22:51:35,667 - __main__ - WARNING - Skipping issue 10546 due to missing announcement date
+2025-04-24 22:51:35,668 - __main__ - WARNING - Skipping issue 91484 due to missing announcement date
+2025-04-24 22:51:35,668 - __main__ - WARNING - Skipping issue 91484 due to missing announcement date
+2025-04-24 22:51:35,672 - __main__ - WARNING - Skipping issue 67300 due to missing announcement date
+2025-04-24 22:51:35,672 - __main__ - WARNING - Skipping issue 25312 due to missing announcement date
+2025-04-24 22:51:35,682 - __main__ - WARNING - Skipping issue 14277 due to missing announcement date
+2025-04-24 22:51:35,683 - __main__ - WARNING - Skipping issue 45671 due to missing announcement date
+2025-04-24 22:51:35,685 - __main__ - WARNING - Skipping issue 18032 due to missing announcement date
+2025-04-24 22:51:35,686 - __main__ - WARNING - Skipping issue 60134 due to missing announcement date
+2025-04-24 22:51:35,686 - __main__ - WARNING - Skipping issue 61049 due to missing announcement date
+2025-04-24 22:51:35,690 - __main__ - WARNING - Skipping issue 54412 due to missing announcement date
+2025-04-24 22:51:35,693 - __main__ - WARNING - Skipping issue 70659 due to missing announcement date
+2025-04-24 22:51:35,694 - __main__ - WARNING - Skipping issue 40985 due to missing announcement date
+2025-04-24 22:51:35,695 - __main__ - WARNING - Skipping issue 45794 due to missing announcement date
+2025-04-24 22:51:35,696 - __main__ - WARNING - Skipping issue 67345 due to missing announcement date
+2025-04-24 22:51:35,696 - __main__ - WARNING - Skipping issue 71096 due to missing announcement date
+2025-04-24 22:51:35,704 - __main__ - WARNING - Skipping issue 68591 due to missing announcement date
+2025-04-24 22:51:35,706 - __main__ - WARNING - Skipping issue 21450 due to missing announcement date
+2025-04-24 22:51:35,710 - __main__ - WARNING - Skipping issue 58464 due to missing announcement date
+2025-04-24 22:51:35,716 - __main__ - WARNING - Skipping issue 20693 due to missing announcement date
+2025-04-24 22:51:35,717 - __main__ - WARNING - Skipping issue 44951 due to missing announcement date
+2025-04-24 22:51:35,726 - __main__ - WARNING - Skipping issue 74924 due to missing announcement date
+2025-04-24 22:51:35,726 - __main__ - WARNING - Skipping issue 75062 due to missing announcement date
+2025-04-24 22:51:35,726 - __main__ - WARNING - Skipping issue 75089 due to missing announcement date
+2025-04-24 22:51:35,728 - __main__ - WARNING - Skipping issue 75300 due to missing announcement date
+2025-04-24 22:51:35,731 - __main__ - WARNING - Skipping issue 64813 due to missing announcement date
+2025-04-24 22:51:35,735 - __main__ - WARNING - Skipping issue 60388 due to missing announcement date
+2025-04-24 22:51:35,735 - __main__ - WARNING - Skipping issue 60388 due to missing announcement date
+2025-04-24 22:51:35,740 - __main__ - WARNING - Skipping issue 28090 due to missing announcement date
+2025-04-24 22:51:35,748 - __main__ - WARNING - Skipping issue 16715 due to missing announcement date
+2025-04-24 22:51:35,752 - __main__ - WARNING - Skipping issue 37364 due to missing announcement date
+2025-04-24 22:51:35,755 - __main__ - WARNING - Skipping issue 48494 due to missing announcement date
+2025-04-24 22:51:35,756 - __main__ - WARNING - Skipping issue 49787 due to missing announcement date
+2025-04-24 22:51:35,759 - __main__ - WARNING - Skipping issue 61217 due to missing announcement date
+2025-04-24 22:51:35,763 - __main__ - WARNING - Skipping issue 14883 due to missing announcement date
+2025-04-24 22:51:35,766 - __main__ - WARNING - Skipping issue 20968 due to missing announcement date
+2025-04-24 22:51:35,766 - __main__ - WARNING - Skipping issue 42569 due to missing announcement date
+2025-04-24 22:51:35,767 - __main__ - WARNING - Skipping issue 39087 due to missing announcement date
+2025-04-24 22:51:35,769 - __main__ - WARNING - Skipping issue 54957 due to missing announcement date
+2025-04-24 22:51:35,772 - __main__ - WARNING - Skipping issue 61698 due to missing announcement date
+2025-04-24 22:51:35,772 - __main__ - WARNING - Skipping issue 80152 due to missing announcement date
+2025-04-24 22:51:35,773 - __main__ - WARNING - Skipping issue 63044 due to missing announcement date
+2025-04-24 22:51:35,778 - __main__ - WARNING - Skipping issue 11086 due to missing announcement date
+2025-04-24 22:51:35,782 - __main__ - WARNING - Skipping issue 81454 due to missing announcement date
+2025-04-24 22:51:35,783 - __main__ - WARNING - Skipping issue 46770 due to missing announcement date
+2025-04-24 22:51:35,783 - __main__ - WARNING - Skipping issue 46770 due to missing announcement date
+2025-04-24 22:51:35,787 - __main__ - WARNING - Skipping issue 64506 due to missing announcement date
+2025-04-24 22:51:35,792 - __main__ - WARNING - Skipping issue 82991 due to missing announcement date
+2025-04-24 22:51:35,798 - __main__ - WARNING - Skipping issue 63079 due to missing announcement date
+2025-04-24 22:51:35,802 - __main__ - INFO - Calculated CARs for 1015 equity issues
+2025-04-24 22:51:35,803 - __main__ - INFO - Mean CAR: -0.0015, J1: -3.3279, J2: -3.3279
+2025-04-24 22:51:36,459 - __main__ - INFO - Event study analysis completed
+2025-04-24 23:04:49,266 - __main__ - INFO - Loading processed data from CSV files
+2025-04-24 23:04:49,290 - __main__ - INFO - Successfully loaded data: 1203 equity issues and 25902 daily returns
+2025-04-24 23:04:49,296 - __main__ - WARNING - Skipping issue 71239 due to missing announcement date
+2025-04-24 23:04:49,297 - __main__ - WARNING - Skipping issue 20482 due to missing announcement date
+2025-04-24 23:04:49,302 - __main__ - WARNING - Skipping issue 11173 due to missing announcement date
+2025-04-24 23:04:49,303 - __main__ - WARNING - Skipping issue 11317 due to missing announcement date
+2025-04-24 23:04:49,306 - __main__ - WARNING - Skipping issue 50032 due to missing announcement date
+2025-04-24 23:04:49,306 - __main__ - WARNING - Skipping issue 24264 due to missing announcement date
+2025-04-24 23:04:49,306 - __main__ - WARNING - Skipping issue 34498 due to missing announcement date
+2025-04-24 23:04:49,307 - __main__ - WARNING - Skipping issue 17304 due to missing announcement date
+2025-04-24 23:04:49,307 - __main__ - WARNING - Skipping issue 63423 due to missing announcement date
+2025-04-24 23:04:49,318 - __main__ - WARNING - Skipping issue 46754 due to missing announcement date
+2025-04-24 23:04:49,320 - __main__ - WARNING - Skipping issue 58560 due to missing announcement date
+2025-04-24 23:04:49,327 - __main__ - WARNING - Skipping issue 14219 due to missing announcement date
+2025-04-24 23:04:49,342 - __main__ - WARNING - Skipping issue 15820 due to missing announcement date
+2025-04-24 23:04:49,344 - __main__ - WARNING - Skipping issue 56899 due to missing announcement date
+2025-04-24 23:04:49,347 - __main__ - WARNING - Skipping issue 28134 due to missing announcement date
+2025-04-24 23:04:49,347 - __main__ - WARNING - Skipping issue 47423 due to missing announcement date
+2025-04-24 23:04:49,352 - __main__ - WARNING - Skipping issue 10786 due to missing announcement date
+2025-04-24 23:04:49,356 - __main__ - WARNING - Skipping issue 44409 due to missing announcement date
+2025-04-24 23:04:49,356 - __main__ - WARNING - Skipping issue 44409 due to missing announcement date
+2025-04-24 23:04:49,358 - __main__ - WARNING - Skipping issue 18332 due to missing announcement date
+2025-04-24 23:04:49,360 - __main__ - WARNING - Skipping issue 66130 due to missing announcement date
+2025-04-24 23:04:49,364 - __main__ - WARNING - Skipping issue 49402 due to missing announcement date
+2025-04-24 23:04:49,364 - __main__ - WARNING - Skipping issue 64020 due to missing announcement date
+2025-04-24 23:04:49,365 - __main__ - WARNING - Skipping issue 20723 due to missing announcement date
+2025-04-24 23:04:49,374 - __main__ - WARNING - Skipping issue 21873 due to missing announcement date
+2025-04-24 23:04:49,378 - __main__ - WARNING - Skipping issue 21397 due to missing announcement date
+2025-04-24 23:04:49,381 - __main__ - WARNING - Skipping issue 22921 due to missing announcement date
+2025-04-24 23:04:49,388 - __main__ - WARNING - Skipping issue 23553 due to missing announcement date
+2025-04-24 23:04:49,390 - __main__ - WARNING - Skipping issue 24302 due to missing announcement date
+2025-04-24 23:04:49,390 - __main__ - WARNING - Skipping issue 24441 due to missing announcement date
+2025-04-24 23:04:49,391 - __main__ - WARNING - Skipping issue 64901 due to missing announcement date
+2025-04-24 23:04:49,399 - __main__ - WARNING - Skipping issue 53508 due to missing announcement date
+2025-04-24 23:04:49,400 - __main__ - WARNING - Skipping issue 25727 due to missing announcement date
+2025-04-24 23:04:49,401 - __main__ - WARNING - Skipping issue 25989 due to missing announcement date
+2025-04-24 23:04:49,404 - __main__ - WARNING - Skipping issue 10937 due to missing announcement date
+2025-04-24 23:04:49,408 - __main__ - WARNING - Skipping issue 11471 due to missing announcement date
+2025-04-24 23:04:49,408 - __main__ - WARNING - Skipping issue 39335 due to missing announcement date
+2025-04-24 23:04:49,408 - __main__ - WARNING - Skipping issue 26914 due to missing announcement date
+2025-04-24 23:04:49,411 - __main__ - WARNING - Skipping issue 20459 due to missing announcement date
+2025-04-24 23:04:49,411 - __main__ - WARNING - Skipping issue 20320 due to missing announcement date
+2025-04-24 23:04:49,411 - __main__ - WARNING - Skipping issue 20320 due to missing announcement date
+2025-04-24 23:04:49,413 - __main__ - WARNING - Skipping issue 62164 due to missing announcement date
+2025-04-24 23:04:49,415 - __main__ - WARNING - Skipping issue 64207 due to missing announcement date
+2025-04-24 23:04:49,419 - __main__ - WARNING - Skipping issue 60919 due to missing announcement date
+2025-04-24 23:04:49,419 - __main__ - WARNING - Skipping issue 28573 due to missing announcement date
+2025-04-24 23:04:49,420 - __main__ - WARNING - Skipping issue 28600 due to missing announcement date
+2025-04-24 23:04:49,420 - __main__ - WARNING - Skipping issue 57592 due to missing announcement date
+2025-04-24 23:04:49,420 - __main__ - WARNING - Skipping issue 28629 due to missing announcement date
+2025-04-24 23:04:49,424 - __main__ - WARNING - Skipping issue 42526 due to missing announcement date
+2025-04-24 23:04:49,424 - __main__ - WARNING - Skipping issue 87231 due to missing announcement date
+2025-04-24 23:04:49,433 - __main__ - WARNING - Skipping issue 46471 due to missing announcement date
+2025-04-24 23:04:49,433 - __main__ - WARNING - Skipping issue 46471 due to missing announcement date
+2025-04-24 23:04:49,433 - __main__ - WARNING - Skipping issue 19254 due to missing announcement date
+2025-04-24 23:04:49,439 - __main__ - WARNING - Skipping issue 48741 due to missing announcement date
+2025-04-24 23:04:49,440 - __main__ - WARNING - Skipping issue 31536 due to missing announcement date
+2025-04-24 23:04:49,443 - __main__ - WARNING - Skipping issue 70578 due to missing announcement date
+2025-04-24 23:04:49,447 - __main__ - WARNING - Skipping issue 60927 due to missing announcement date
+2025-04-24 23:04:49,450 - __main__ - WARNING - Skipping issue 32460 due to missing announcement date
+2025-04-24 23:04:49,452 - __main__ - WARNING - Skipping issue 32943 due to missing announcement date
+2025-04-24 23:04:49,453 - __main__ - WARNING - Skipping issue 32943 due to missing announcement date
+2025-04-24 23:04:49,453 - __main__ - WARNING - Skipping issue 32759 due to missing announcement date
+2025-04-24 23:04:49,457 - __main__ - WARNING - Skipping issue 59539 due to missing announcement date
+2025-04-24 23:04:49,464 - __main__ - WARNING - Skipping issue 35554 due to missing announcement date
+2025-04-24 23:04:49,473 - __main__ - WARNING - Skipping issue 22007 due to missing announcement date
+2025-04-24 23:04:49,474 - __main__ - WARNING - Skipping issue 41304 due to missing announcement date
+2025-04-24 23:04:49,475 - __main__ - WARNING - Skipping issue 38317 due to missing announcement date
+2025-04-24 23:04:49,482 - __main__ - WARNING - Skipping issue 45428 due to missing announcement date
+2025-04-24 23:04:49,484 - __main__ - WARNING - Skipping issue 22568 due to missing announcement date
+2025-04-24 23:04:49,488 - __main__ - WARNING - Skipping issue 32440 due to missing announcement date
+2025-04-24 23:04:49,489 - __main__ - WARNING - Skipping issue 40265 due to missing announcement date
+2025-04-24 23:04:49,493 - __main__ - WARNING - Skipping issue 56266 due to missing announcement date
+2025-04-24 23:04:49,493 - __main__ - WARNING - Skipping issue 11736 due to missing announcement date
+2025-04-24 23:04:49,493 - __main__ - WARNING - Skipping issue 40708 due to missing announcement date
+2025-04-24 23:04:49,494 - __main__ - WARNING - Skipping issue 59301 due to missing announcement date
+2025-04-24 23:04:49,496 - __main__ - WARNING - Skipping issue 32563 due to missing announcement date
+2025-04-24 23:04:49,510 - __main__ - WARNING - Skipping issue 51561 due to missing announcement date
+2025-04-24 23:04:49,513 - __main__ - WARNING - Skipping issue 48653 due to missing announcement date
+2025-04-24 23:04:49,526 - __main__ - WARNING - Skipping issue 21573 due to missing announcement date
+2025-04-24 23:04:49,527 - __main__ - WARNING - Skipping issue 45074 due to missing announcement date
+2025-04-24 23:04:49,532 - __main__ - WARNING - Skipping issue 43596 due to missing announcement date
+2025-04-24 23:04:49,532 - __main__ - WARNING - Skipping issue 46077 due to missing announcement date
+2025-04-24 23:04:49,532 - __main__ - WARNING - Skipping issue 75228 due to missing announcement date
+2025-04-24 23:04:49,533 - __main__ - WARNING - Skipping issue 46288 due to missing announcement date
+2025-04-24 23:04:49,534 - __main__ - WARNING - Skipping issue 46544 due to missing announcement date
+2025-04-24 23:04:49,535 - __main__ - WARNING - Skipping issue 16707 due to missing announcement date
+2025-04-24 23:04:49,536 - __main__ - WARNING - Skipping issue 46691 due to missing announcement date
+2025-04-24 23:04:49,536 - __main__ - WARNING - Skipping issue 21557 due to missing announcement date
+2025-04-24 23:04:49,537 - __main__ - WARNING - Skipping issue 60513 due to missing announcement date
+2025-04-24 23:04:49,537 - __main__ - WARNING - Skipping issue 25769 due to missing announcement date
+2025-04-24 23:04:49,537 - __main__ - WARNING - Skipping issue 47539 due to missing announcement date
+2025-04-24 23:04:49,538 - __main__ - WARNING - Skipping issue 61137 due to missing announcement date
+2025-04-24 23:04:49,544 - __main__ - WARNING - Skipping issue 49104 due to missing announcement date
+2025-04-24 23:04:49,545 - __main__ - WARNING - Skipping issue 49278 due to missing announcement date
+2025-04-24 23:04:49,546 - __main__ - WARNING - Skipping issue 49462 due to missing announcement date
+2025-04-24 23:04:49,560 - __main__ - WARNING - Skipping issue 46703 due to missing announcement date
+2025-04-24 23:04:49,561 - __main__ - WARNING - Skipping issue 20386 due to missing announcement date
+2025-04-24 23:04:49,565 - __main__ - WARNING - Skipping issue 60652 due to missing announcement date
+2025-04-24 23:04:49,572 - __main__ - WARNING - Skipping issue 53568 due to missing announcement date
+2025-04-24 23:04:49,572 - __main__ - WARNING - Skipping issue 53576 due to missing announcement date
+2025-04-24 23:04:49,573 - __main__ - WARNING - Skipping issue 53613 due to missing announcement date
+2025-04-24 23:04:49,574 - __main__ - WARNING - Skipping issue 53640 due to missing announcement date
+2025-04-24 23:04:49,576 - __main__ - WARNING - Skipping issue 54114 due to missing announcement date
+2025-04-24 23:04:49,576 - __main__ - WARNING - Skipping issue 54173 due to missing announcement date
+2025-04-24 23:04:49,580 - __main__ - WARNING - Skipping issue 55053 due to missing announcement date
+2025-04-24 23:04:49,581 - __main__ - WARNING - Skipping issue 48071 due to missing announcement date
+2025-04-24 23:04:49,582 - __main__ - WARNING - Skipping issue 55272 due to missing announcement date
+2025-04-24 23:04:49,582 - __main__ - WARNING - Skipping issue 55272 due to missing announcement date
+2025-04-24 23:04:49,586 - __main__ - WARNING - Skipping issue 56531 due to missing announcement date
+2025-04-24 23:04:49,589 - __main__ - WARNING - Skipping issue 59096 due to missing announcement date
+2025-04-24 23:04:49,596 - __main__ - WARNING - Skipping issue 64303 due to missing announcement date
+2025-04-24 23:04:49,596 - __main__ - WARNING - Skipping issue 64303 due to missing announcement date
+2025-04-24 23:04:49,596 - __main__ - WARNING - Skipping issue 57753 due to missing announcement date
+2025-04-24 23:04:49,597 - __main__ - WARNING - Skipping issue 57817 due to missing announcement date
+2025-04-24 23:04:49,599 - __main__ - WARNING - Skipping issue 57999 due to missing announcement date
+2025-04-24 23:04:49,604 - __main__ - WARNING - Skipping issue 34825 due to missing announcement date
+2025-04-24 23:04:49,609 - __main__ - WARNING - Skipping issue 57840 due to missing announcement date
+2025-04-24 23:04:49,613 - __main__ - WARNING - Skipping issue 60063 due to missing announcement date
+2025-04-24 23:04:49,613 - __main__ - WARNING - Skipping issue 60063 due to missing announcement date
+2025-04-24 23:04:49,615 - __main__ - WARNING - Skipping issue 13661 due to missing announcement date
+2025-04-24 23:04:49,621 - __main__ - WARNING - Skipping issue 41355 due to missing announcement date
+2025-04-24 23:04:49,622 - __main__ - WARNING - Skipping issue 61517 due to missing announcement date
+2025-04-24 23:04:49,622 - __main__ - WARNING - Skipping issue 65023 due to missing announcement date
+2025-04-24 23:04:49,622 - __main__ - WARNING - Skipping issue 61592 due to missing announcement date
+2025-04-24 23:04:49,622 - __main__ - WARNING - Skipping issue 63298 due to missing announcement date
+2025-04-24 23:04:49,625 - __main__ - WARNING - Skipping issue 18403 due to missing announcement date
+2025-04-24 23:04:49,629 - __main__ - WARNING - Skipping issue 61823 due to missing announcement date
+2025-04-24 23:04:49,629 - __main__ - WARNING - Skipping issue 62261 due to missing announcement date
+2025-04-24 23:04:49,630 - __main__ - WARNING - Skipping issue 55415 due to missing announcement date
+2025-04-24 23:04:49,631 - __main__ - WARNING - Skipping issue 62499 due to missing announcement date
+2025-04-24 23:04:49,633 - __main__ - WARNING - Skipping issue 13901 due to missing announcement date
+2025-04-24 23:04:49,635 - __main__ - WARNING - Skipping issue 16360 due to missing announcement date
+2025-04-24 23:04:49,637 - __main__ - WARNING - Skipping issue 63475 due to missing announcement date
+2025-04-24 23:04:49,639 - __main__ - WARNING - Skipping issue 63830 due to missing announcement date
+2025-04-24 23:04:49,639 - __main__ - WARNING - Skipping issue 63830 due to missing announcement date
+2025-04-24 23:04:49,648 - __main__ - WARNING - Skipping issue 65446 due to missing announcement date
+2025-04-24 23:04:49,648 - __main__ - WARNING - Skipping issue 65622 due to missing announcement date
+2025-04-24 23:04:49,649 - __main__ - WARNING - Skipping issue 52775 due to missing announcement date
+2025-04-24 23:04:49,650 - __main__ - WARNING - Skipping issue 64346 due to missing announcement date
+2025-04-24 23:04:49,650 - __main__ - WARNING - Skipping issue 46228 due to missing announcement date
+2025-04-24 23:04:49,654 - __main__ - WARNING - Skipping issue 10546 due to missing announcement date
+2025-04-24 23:04:49,655 - __main__ - WARNING - Skipping issue 91484 due to missing announcement date
+2025-04-24 23:04:49,655 - __main__ - WARNING - Skipping issue 91484 due to missing announcement date
+2025-04-24 23:04:49,659 - __main__ - WARNING - Skipping issue 67300 due to missing announcement date
+2025-04-24 23:04:49,659 - __main__ - WARNING - Skipping issue 25312 due to missing announcement date
+2025-04-24 23:04:49,669 - __main__ - WARNING - Skipping issue 14277 due to missing announcement date
+2025-04-24 23:04:49,670 - __main__ - WARNING - Skipping issue 45671 due to missing announcement date
+2025-04-24 23:04:49,672 - __main__ - WARNING - Skipping issue 18032 due to missing announcement date
+2025-04-24 23:04:49,673 - __main__ - WARNING - Skipping issue 60134 due to missing announcement date
+2025-04-24 23:04:49,674 - __main__ - WARNING - Skipping issue 61049 due to missing announcement date
+2025-04-24 23:04:49,677 - __main__ - WARNING - Skipping issue 54412 due to missing announcement date
+2025-04-24 23:04:49,680 - __main__ - WARNING - Skipping issue 70659 due to missing announcement date
+2025-04-24 23:04:49,681 - __main__ - WARNING - Skipping issue 40985 due to missing announcement date
+2025-04-24 23:04:49,682 - __main__ - WARNING - Skipping issue 45794 due to missing announcement date
+2025-04-24 23:04:49,683 - __main__ - WARNING - Skipping issue 67345 due to missing announcement date
+2025-04-24 23:04:49,683 - __main__ - WARNING - Skipping issue 71096 due to missing announcement date
+2025-04-24 23:04:49,691 - __main__ - WARNING - Skipping issue 68591 due to missing announcement date
+2025-04-24 23:04:49,693 - __main__ - WARNING - Skipping issue 21450 due to missing announcement date
+2025-04-24 23:04:49,697 - __main__ - WARNING - Skipping issue 58464 due to missing announcement date
+2025-04-24 23:04:49,703 - __main__ - WARNING - Skipping issue 20693 due to missing announcement date
+2025-04-24 23:04:49,704 - __main__ - WARNING - Skipping issue 44951 due to missing announcement date
+2025-04-24 23:04:49,712 - __main__ - WARNING - Skipping issue 74924 due to missing announcement date
+2025-04-24 23:04:49,712 - __main__ - WARNING - Skipping issue 75062 due to missing announcement date
+2025-04-24 23:04:49,712 - __main__ - WARNING - Skipping issue 75089 due to missing announcement date
+2025-04-24 23:04:49,715 - __main__ - WARNING - Skipping issue 75300 due to missing announcement date
+2025-04-24 23:04:49,717 - __main__ - WARNING - Skipping issue 64813 due to missing announcement date
+2025-04-24 23:04:49,722 - __main__ - WARNING - Skipping issue 60388 due to missing announcement date
+2025-04-24 23:04:49,722 - __main__ - WARNING - Skipping issue 60388 due to missing announcement date
+2025-04-24 23:04:49,727 - __main__ - WARNING - Skipping issue 28090 due to missing announcement date
+2025-04-24 23:04:49,735 - __main__ - WARNING - Skipping issue 16715 due to missing announcement date
+2025-04-24 23:04:49,740 - __main__ - WARNING - Skipping issue 37364 due to missing announcement date
+2025-04-24 23:04:49,742 - __main__ - WARNING - Skipping issue 48494 due to missing announcement date
+2025-04-24 23:04:49,744 - __main__ - WARNING - Skipping issue 49787 due to missing announcement date
+2025-04-24 23:04:49,747 - __main__ - WARNING - Skipping issue 61217 due to missing announcement date
+2025-04-24 23:04:49,752 - __main__ - WARNING - Skipping issue 14883 due to missing announcement date
+2025-04-24 23:04:49,755 - __main__ - WARNING - Skipping issue 20968 due to missing announcement date
+2025-04-24 23:04:49,755 - __main__ - WARNING - Skipping issue 42569 due to missing announcement date
+2025-04-24 23:04:49,756 - __main__ - WARNING - Skipping issue 39087 due to missing announcement date
+2025-04-24 23:04:49,758 - __main__ - WARNING - Skipping issue 54957 due to missing announcement date
+2025-04-24 23:04:49,760 - __main__ - WARNING - Skipping issue 61698 due to missing announcement date
+2025-04-24 23:04:49,761 - __main__ - WARNING - Skipping issue 80152 due to missing announcement date
+2025-04-24 23:04:49,762 - __main__ - WARNING - Skipping issue 63044 due to missing announcement date
+2025-04-24 23:04:49,767 - __main__ - WARNING - Skipping issue 11086 due to missing announcement date
+2025-04-24 23:04:49,771 - __main__ - WARNING - Skipping issue 81454 due to missing announcement date
+2025-04-24 23:04:49,773 - __main__ - WARNING - Skipping issue 46770 due to missing announcement date
+2025-04-24 23:04:49,773 - __main__ - WARNING - Skipping issue 46770 due to missing announcement date
+2025-04-24 23:04:49,776 - __main__ - WARNING - Skipping issue 64506 due to missing announcement date
+2025-04-24 23:04:49,782 - __main__ - WARNING - Skipping issue 82991 due to missing announcement date
+2025-04-24 23:04:49,788 - __main__ - WARNING - Skipping issue 63079 due to missing announcement date
+2025-04-24 23:04:49,791 - __main__ - INFO - Calculated CARs for 1015 equity issues
+2025-04-24 23:04:49,793 - __main__ - INFO - Mean CAR: -0.0015, J1: -3.3279, J2: -3.3279
+2025-04-24 23:04:49,991 - __main__ - INFO - Event study analysis completed
